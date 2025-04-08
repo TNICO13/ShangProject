@@ -1,0 +1,7 @@
+pl_dens
+st_rad
+st_teff
+st_lum
+st_age
+pl_orbper
+pl_rade

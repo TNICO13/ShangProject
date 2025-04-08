@@ -1,0 +1,11 @@
+pip >= 25.0
+pandas >= 1.5
+numpy >= 1.26.4
+plotly >= 1.13.0
+kaleido >= 1.0.0rc11
+SciPy >= 1.6.0
+joblib >= 1.2.0
+threadpoolctl >= 3.1.0
+scikit-learn >= 1.6.0
+statsmodels >= 0.14.0
+matplotlib >= 3.10.0
